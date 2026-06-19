@@ -1,5 +1,5 @@
 Health & Fitness App
-About the Project
+
 This project was developed as a comprehensive solution for personal health management, aiming to bridge the gap between logging daily physical activities and visualizing long-term health trends. By utilizing the MERN stack (MongoDB, Express, React, and Node.js), I built this application to handle data-intensive tasks like tracking calories, workout durations, and daily steps, providing users with a clean and actionable dashboard for their fitness journey.
 
 Core Features
